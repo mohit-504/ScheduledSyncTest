@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>WF-4219 scheduled sync test feed v0</title>
+    <link>https://example.com</link>
+    <description>Flat fields plus nested g:shipping and repeated g:additional_image_link</description>
+    <item>
+      <g:identity>SKU-2001</g:identity>
+      <g:name>Denim Jeans #1</g:name>
+      <g:image_url>https://picsum.photos/id/11/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2001</g:link>
+      <g:price>325.00</g:price>
+      <g:sale_price>260.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Contoso</g:brand>
+      <g:category>Footwear</g:category>
+      <g:color>Blue</g:color>
+      <g:stock_quantity>13</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>50.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/11/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/11/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2002</g:identity>
+      <g:name>Running Shoes #2</g:name>
+      <g:image_url>https://picsum.photos/id/12/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2002</g:link>
+      <g:price>350.00</g:price>
+      <g:sale_price>280.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Fabrikam</g:brand>
+      <g:category>Accessories</g:category>
+      <g:color>Black</g:color>
+      <g:stock_quantity>26</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>51.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/12/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/12/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2003</g:identity>
+      <g:name>Wool Sweater #3</g:name>
+      <g:image_url>https://picsum.photos/id/13/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2003</g:link>
+      <g:price>375.00</g:price>
+      <g:sale_price>300.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Tailspin</g:brand>
+      <g:category>Apparel</g:category>
+      <g:color>Red</g:color>
+      <g:stock_quantity>39</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>52.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/13/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/13/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2004</g:identity>
+      <g:name>Linen Shirt #4</g:name>
+      <g:image_url>https://picsum.photos/id/14/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2004</g:link>
+      <g:price>400.00</g:price>
+      <g:sale_price>320.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Northwind</g:brand>
+      <g:category>Footwear</g:category>
+      <g:color>Green</g:color>
+      <g:stock_quantity>52</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>53.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/14/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/14/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2005</g:identity>
+      <g:name>Canvas Sneakers #5</g:name>
+      <g:image_url>https://picsum.photos/id/15/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2005</g:link>
+      <g:price>425.00</g:price>
+      <g:sale_price>340.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Contoso</g:brand>
+      <g:category>Accessories</g:category>
+      <g:color>White</g:color>
+      <g:stock_quantity>65</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>54.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/15/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/15/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2006</g:identity>
+      <g:name>Leather Belt #6</g:name>
+      <g:image_url>https://picsum.photos/id/16/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2006</g:link>
+      <g:price>450.00</g:price>
+      <g:sale_price>360.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Fabrikam</g:brand>
+      <g:category>Apparel</g:category>
+      <g:color>Blue</g:color>
+      <g:stock_quantity>78</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>55.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/16/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/16/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2007</g:identity>
+      <g:name>Silk Scarf #7</g:name>
+      <g:image_url>https://picsum.photos/id/17/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2007</g:link>
+      <g:price>475.00</g:price>
+      <g:sale_price>380.00</g:sale_price>
+      <g:availability>out of stock</g:availability>
+      <g:brand>Tailspin</g:brand>
+      <g:category>Footwear</g:category>
+      <g:color>Black</g:color>
+      <g:stock_quantity>91</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>56.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/17/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/17/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2008</g:identity>
+      <g:name>Rain Jacket #8</g:name>
+      <g:image_url>https://picsum.photos/id/18/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2008</g:link>
+      <g:price>500.00</g:price>
+      <g:sale_price>400.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Northwind</g:brand>
+      <g:category>Accessories</g:category>
+      <g:color>Red</g:color>
+      <g:stock_quantity>104</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>57.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/18/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/18/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2009</g:identity>
+      <g:name>Cargo Shorts #9</g:name>
+      <g:image_url>https://picsum.photos/id/19/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2009</g:link>
+      <g:price>525.00</g:price>
+      <g:sale_price>420.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Contoso</g:brand>
+      <g:category>Apparel</g:category>
+      <g:color>Green</g:color>
+      <g:stock_quantity>117</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>58.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/19/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/19/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2010</g:identity>
+      <g:name>Cotton T-Shirt #10</g:name>
+      <g:image_url>https://picsum.photos/id/20/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2010</g:link>
+      <g:price>550.00</g:price>
+      <g:sale_price>440.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Fabrikam</g:brand>
+      <g:category>Footwear</g:category>
+      <g:color>White</g:color>
+      <g:stock_quantity>130</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>59.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/20/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/20/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2011</g:identity>
+      <g:name>Denim Jeans #11</g:name>
+      <g:image_url>https://picsum.photos/id/21/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2011</g:link>
+      <g:price>575.00</g:price>
+      <g:sale_price>460.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Tailspin</g:brand>
+      <g:category>Accessories</g:category>
+      <g:color>Blue</g:color>
+      <g:stock_quantity>143</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>60.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/21/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/21/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2012</g:identity>
+      <g:name>Running Shoes #12</g:name>
+      <g:image_url>https://picsum.photos/id/22/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2012</g:link>
+      <g:price>600.00</g:price>
+      <g:sale_price>480.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Northwind</g:brand>
+      <g:category>Apparel</g:category>
+      <g:color>Black</g:color>
+      <g:stock_quantity>156</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>61.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/22/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/22/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2013</g:identity>
+      <g:name>Wool Sweater #13</g:name>
+      <g:image_url>https://picsum.photos/id/23/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2013</g:link>
+      <g:price>625.00</g:price>
+      <g:sale_price>500.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Contoso</g:brand>
+      <g:category>Footwear</g:category>
+      <g:color>Red</g:color>
+      <g:stock_quantity>169</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>62.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/23/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/23/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2014</g:identity>
+      <g:name>Linen Shirt #14</g:name>
+      <g:image_url>https://picsum.photos/id/24/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2014</g:link>
+      <g:price>650.00</g:price>
+      <g:sale_price>520.00</g:sale_price>
+      <g:availability>out of stock</g:availability>
+      <g:brand>Fabrikam</g:brand>
+      <g:category>Accessories</g:category>
+      <g:color>Green</g:color>
+      <g:stock_quantity>182</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>63.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/24/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/24/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2015</g:identity>
+      <g:name>Canvas Sneakers #15</g:name>
+      <g:image_url>https://picsum.photos/id/25/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2015</g:link>
+      <g:price>675.00</g:price>
+      <g:sale_price>540.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Tailspin</g:brand>
+      <g:category>Apparel</g:category>
+      <g:color>White</g:color>
+      <g:stock_quantity>195</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>64.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/25/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/25/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2016</g:identity>
+      <g:name>Leather Belt #16</g:name>
+      <g:image_url>https://picsum.photos/id/26/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2016</g:link>
+      <g:price>700.00</g:price>
+      <g:sale_price>560.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Northwind</g:brand>
+      <g:category>Footwear</g:category>
+      <g:color>Blue</g:color>
+      <g:stock_quantity>8</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>65.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/26/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/26/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2017</g:identity>
+      <g:name>Silk Scarf #17</g:name>
+      <g:image_url>https://picsum.photos/id/27/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2017</g:link>
+      <g:price>725.00</g:price>
+      <g:sale_price>580.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Contoso</g:brand>
+      <g:category>Accessories</g:category>
+      <g:color>Black</g:color>
+      <g:stock_quantity>21</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>66.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/27/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/27/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2018</g:identity>
+      <g:name>Rain Jacket #18</g:name>
+      <g:image_url>https://picsum.photos/id/28/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2018</g:link>
+      <g:price>750.00</g:price>
+      <g:sale_price>600.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Fabrikam</g:brand>
+      <g:category>Apparel</g:category>
+      <g:color>Red</g:color>
+      <g:stock_quantity>34</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>67.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/28/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/28/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2019</g:identity>
+      <g:name>Cargo Shorts #19</g:name>
+      <g:image_url>https://picsum.photos/id/29/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2019</g:link>
+      <g:price>775.00</g:price>
+      <g:sale_price>620.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Tailspin</g:brand>
+      <g:category>Footwear</g:category>
+      <g:color>Green</g:color>
+      <g:stock_quantity>47</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>68.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/29/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/29/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2020</g:identity>
+      <g:name>Cotton T-Shirt #20</g:name>
+      <g:image_url>https://picsum.photos/id/30/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2020</g:link>
+      <g:price>800.00</g:price>
+      <g:sale_price>640.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Northwind</g:brand>
+      <g:category>Accessories</g:category>
+      <g:color>White</g:color>
+      <g:stock_quantity>60</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>69.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/30/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/30/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2021</g:identity>
+      <g:name>Denim Jeans #21</g:name>
+      <g:image_url>https://picsum.photos/id/31/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2021</g:link>
+      <g:price>825.00</g:price>
+      <g:sale_price>660.00</g:sale_price>
+      <g:availability>out of stock</g:availability>
+      <g:brand>Contoso</g:brand>
+      <g:category>Apparel</g:category>
+      <g:color>Blue</g:color>
+      <g:stock_quantity>73</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>70.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/31/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/31/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2022</g:identity>
+      <g:name>Running Shoes #22</g:name>
+      <g:image_url>https://picsum.photos/id/32/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2022</g:link>
+      <g:price>850.00</g:price>
+      <g:sale_price>680.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Fabrikam</g:brand>
+      <g:category>Footwear</g:category>
+      <g:color>Black</g:color>
+      <g:stock_quantity>86</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>71.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/32/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/32/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2023</g:identity>
+      <g:name>Wool Sweater #23</g:name>
+      <g:image_url>https://picsum.photos/id/33/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2023</g:link>
+      <g:price>875.00</g:price>
+      <g:sale_price>700.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Tailspin</g:brand>
+      <g:category>Accessories</g:category>
+      <g:color>Red</g:color>
+      <g:stock_quantity>99</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>72.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/33/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/33/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2024</g:identity>
+      <g:name>Linen Shirt #24</g:name>
+      <g:image_url>https://picsum.photos/id/34/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2024</g:link>
+      <g:price>900.00</g:price>
+      <g:sale_price>720.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Northwind</g:brand>
+      <g:category>Apparel</g:category>
+      <g:color>Green</g:color>
+      <g:stock_quantity>112</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>73.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/34/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/34/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2025</g:identity>
+      <g:name>Canvas Sneakers #25</g:name>
+      <g:image_url>https://picsum.photos/id/35/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2025</g:link>
+      <g:price>925.00</g:price>
+      <g:sale_price>740.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Contoso</g:brand>
+      <g:category>Footwear</g:category>
+      <g:color>White</g:color>
+      <g:stock_quantity>125</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>74.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/35/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/35/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2026</g:identity>
+      <g:name>Leather Belt #26</g:name>
+      <g:image_url>https://picsum.photos/id/36/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2026</g:link>
+      <g:price>950.00</g:price>
+      <g:sale_price>760.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Fabrikam</g:brand>
+      <g:category>Accessories</g:category>
+      <g:color>Blue</g:color>
+      <g:stock_quantity>138</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>75.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/36/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/36/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2027</g:identity>
+      <g:name>Silk Scarf #27</g:name>
+      <g:image_url>https://picsum.photos/id/37/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2027</g:link>
+      <g:price>975.00</g:price>
+      <g:sale_price>780.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Tailspin</g:brand>
+      <g:category>Apparel</g:category>
+      <g:color>Black</g:color>
+      <g:stock_quantity>151</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>76.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/37/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/37/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2028</g:identity>
+      <g:name>Rain Jacket #28</g:name>
+      <g:image_url>https://picsum.photos/id/38/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2028</g:link>
+      <g:price>1000.00</g:price>
+      <g:sale_price>800.00</g:sale_price>
+      <g:availability>out of stock</g:availability>
+      <g:brand>Northwind</g:brand>
+      <g:category>Footwear</g:category>
+      <g:color>Red</g:color>
+      <g:stock_quantity>164</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>77.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/38/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/38/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2029</g:identity>
+      <g:name>Cargo Shorts #29</g:name>
+      <g:image_url>https://picsum.photos/id/39/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2029</g:link>
+      <g:price>1025.00</g:price>
+      <g:sale_price>820.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Contoso</g:brand>
+      <g:category>Accessories</g:category>
+      <g:color>Green</g:color>
+      <g:stock_quantity>177</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>78.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/39/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/39/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2030</g:identity>
+      <g:name>Cotton T-Shirt #30</g:name>
+      <g:image_url>https://picsum.photos/id/40/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2030</g:link>
+      <g:price>1050.00</g:price>
+      <g:sale_price>840.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Fabrikam</g:brand>
+      <g:category>Apparel</g:category>
+      <g:color>White</g:color>
+      <g:stock_quantity>190</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>79.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/40/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/40/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2031</g:identity>
+      <g:name>Denim Jeans #31</g:name>
+      <g:image_url>https://picsum.photos/id/41/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2031</g:link>
+      <g:price>1075.00</g:price>
+      <g:sale_price>860.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Tailspin</g:brand>
+      <g:category>Footwear</g:category>
+      <g:color>Blue</g:color>
+      <g:stock_quantity>3</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>80.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/41/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/41/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2032</g:identity>
+      <g:name>Running Shoes #32</g:name>
+      <g:image_url>https://picsum.photos/id/42/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2032</g:link>
+      <g:price>1100.00</g:price>
+      <g:sale_price>880.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Northwind</g:brand>
+      <g:category>Accessories</g:category>
+      <g:color>Black</g:color>
+      <g:stock_quantity>16</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>81.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/42/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/42/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2033</g:identity>
+      <g:name>Wool Sweater #33</g:name>
+      <g:image_url>https://picsum.photos/id/43/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2033</g:link>
+      <g:price>1125.00</g:price>
+      <g:sale_price>900.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Contoso</g:brand>
+      <g:category>Apparel</g:category>
+      <g:color>Red</g:color>
+      <g:stock_quantity>29</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>82.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/43/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/43/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2034</g:identity>
+      <g:name>Linen Shirt #34</g:name>
+      <g:image_url>https://picsum.photos/id/44/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2034</g:link>
+      <g:price>1150.00</g:price>
+      <g:sale_price>920.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Fabrikam</g:brand>
+      <g:category>Footwear</g:category>
+      <g:color>Green</g:color>
+      <g:stock_quantity>42</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>83.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/44/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/44/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2035</g:identity>
+      <g:name>Canvas Sneakers #35</g:name>
+      <g:image_url>https://picsum.photos/id/45/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2035</g:link>
+      <g:price>1175.00</g:price>
+      <g:sale_price>940.00</g:sale_price>
+      <g:availability>out of stock</g:availability>
+      <g:brand>Tailspin</g:brand>
+      <g:category>Accessories</g:category>
+      <g:color>White</g:color>
+      <g:stock_quantity>55</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>84.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/45/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/45/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2036</g:identity>
+      <g:name>Leather Belt #36</g:name>
+      <g:image_url>https://picsum.photos/id/46/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2036</g:link>
+      <g:price>1200.00</g:price>
+      <g:sale_price>960.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Northwind</g:brand>
+      <g:category>Apparel</g:category>
+      <g:color>Blue</g:color>
+      <g:stock_quantity>68</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>85.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/46/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/46/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2037</g:identity>
+      <g:name>Silk Scarf #37</g:name>
+      <g:image_url>https://picsum.photos/id/47/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2037</g:link>
+      <g:price>1225.00</g:price>
+      <g:sale_price>980.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Contoso</g:brand>
+      <g:category>Footwear</g:category>
+      <g:color>Black</g:color>
+      <g:stock_quantity>81</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>86.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/47/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/47/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2038</g:identity>
+      <g:name>Rain Jacket #38</g:name>
+      <g:image_url>https://picsum.photos/id/48/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2038</g:link>
+      <g:price>1250.00</g:price>
+      <g:sale_price>1000.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Fabrikam</g:brand>
+      <g:category>Accessories</g:category>
+      <g:color>Red</g:color>
+      <g:stock_quantity>94</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>87.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/48/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/48/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2039</g:identity>
+      <g:name>Cargo Shorts #39</g:name>
+      <g:image_url>https://picsum.photos/id/49/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2039</g:link>
+      <g:price>1275.00</g:price>
+      <g:sale_price>1020.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Tailspin</g:brand>
+      <g:category>Apparel</g:category>
+      <g:color>Green</g:color>
+      <g:stock_quantity>107</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>88.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/49/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/49/600/600?alt=2</g:additional_image_link>
+    </item>
+    <item>
+      <g:identity>SKU-2040</g:identity>
+      <g:name>Cotton T-Shirt #40</g:name>
+      <g:image_url>https://picsum.photos/id/50/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2040</g:link>
+      <g:price>1300.00</g:price>
+      <g:sale_price>1040.00</g:sale_price>
+      <g:availability>in stock</g:availability>
+      <g:brand>Northwind</g:brand>
+      <g:category>Footwear</g:category>
+      <g:color>White</g:color>
+      <g:stock_quantity>120</g:stock_quantity>
+      <g:feed_version>v0</g:feed_version>
+      <g:shipping>
+        <g:country>IN</g:country>
+        <g:price>89.00 INR</g:price>
+      </g:shipping>
+      <g:additional_image_link>https://picsum.photos/id/50/600/600?alt=1</g:additional_image_link>
+      <g:additional_image_link>https://picsum.photos/id/50/600/600?alt=2</g:additional_image_link>
+    </item>
+  </channel>
+</rss>
