@@ -3,7 +3,7 @@
   <channel>
     <title>WF-4219 scheduled sync test feed v0</title>
     <link>https://example.com</link>
-    <description>Flat fields plus nested g:shipping and repeated g:additional_image_link</description>
+    <description>Flat Google Merchant items, no nested or repeated elements</description>
     <item>
       <g:identity>SKU-2001</g:identity>
       <g:name>Denim Jeans #1</g:name>
@@ -17,12 +17,6 @@
       <g:color>Blue</g:color>
       <g:stock_quantity>13</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>50.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/11/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/11/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2002</g:identity>
@@ -37,12 +31,6 @@
       <g:color>Black</g:color>
       <g:stock_quantity>26</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>51.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/12/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/12/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2003</g:identity>
@@ -57,12 +45,6 @@
       <g:color>Red</g:color>
       <g:stock_quantity>39</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>52.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/13/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/13/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2004</g:identity>
@@ -77,12 +59,6 @@
       <g:color>Green</g:color>
       <g:stock_quantity>52</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>53.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/14/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/14/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2005</g:identity>
@@ -97,12 +73,6 @@
       <g:color>White</g:color>
       <g:stock_quantity>65</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>54.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/15/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/15/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2006</g:identity>
@@ -117,12 +87,6 @@
       <g:color>Blue</g:color>
       <g:stock_quantity>78</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>55.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/16/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/16/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2007</g:identity>
@@ -137,12 +101,6 @@
       <g:color>Black</g:color>
       <g:stock_quantity>91</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>56.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/17/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/17/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2008</g:identity>
@@ -157,12 +115,6 @@
       <g:color>Red</g:color>
       <g:stock_quantity>104</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>57.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/18/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/18/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2009</g:identity>
@@ -177,12 +129,6 @@
       <g:color>Green</g:color>
       <g:stock_quantity>117</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>58.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/19/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/19/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2010</g:identity>
@@ -197,12 +143,6 @@
       <g:color>White</g:color>
       <g:stock_quantity>130</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>59.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/20/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/20/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2011</g:identity>
@@ -217,12 +157,6 @@
       <g:color>Blue</g:color>
       <g:stock_quantity>143</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>60.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/21/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/21/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2012</g:identity>
@@ -237,12 +171,6 @@
       <g:color>Black</g:color>
       <g:stock_quantity>156</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>61.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/22/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/22/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2013</g:identity>
@@ -257,12 +185,6 @@
       <g:color>Red</g:color>
       <g:stock_quantity>169</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>62.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/23/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/23/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2014</g:identity>
@@ -277,12 +199,6 @@
       <g:color>Green</g:color>
       <g:stock_quantity>182</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>63.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/24/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/24/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2015</g:identity>
@@ -297,12 +213,6 @@
       <g:color>White</g:color>
       <g:stock_quantity>195</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>64.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/25/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/25/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2016</g:identity>
@@ -317,12 +227,6 @@
       <g:color>Blue</g:color>
       <g:stock_quantity>8</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>65.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/26/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/26/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2017</g:identity>
@@ -337,12 +241,6 @@
       <g:color>Black</g:color>
       <g:stock_quantity>21</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>66.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/27/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/27/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2018</g:identity>
@@ -357,12 +255,6 @@
       <g:color>Red</g:color>
       <g:stock_quantity>34</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>67.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/28/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/28/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2019</g:identity>
@@ -377,12 +269,6 @@
       <g:color>Green</g:color>
       <g:stock_quantity>47</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>68.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/29/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/29/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2020</g:identity>
@@ -397,12 +283,6 @@
       <g:color>White</g:color>
       <g:stock_quantity>60</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>69.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/30/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/30/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2021</g:identity>
@@ -417,12 +297,6 @@
       <g:color>Blue</g:color>
       <g:stock_quantity>73</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>70.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/31/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/31/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2022</g:identity>
@@ -437,12 +311,6 @@
       <g:color>Black</g:color>
       <g:stock_quantity>86</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>71.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/32/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/32/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2023</g:identity>
@@ -457,12 +325,6 @@
       <g:color>Red</g:color>
       <g:stock_quantity>99</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>72.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/33/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/33/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2024</g:identity>
@@ -477,12 +339,6 @@
       <g:color>Green</g:color>
       <g:stock_quantity>112</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>73.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/34/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/34/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2025</g:identity>
@@ -497,12 +353,6 @@
       <g:color>White</g:color>
       <g:stock_quantity>125</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>74.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/35/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/35/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2026</g:identity>
@@ -517,12 +367,6 @@
       <g:color>Blue</g:color>
       <g:stock_quantity>138</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>75.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/36/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/36/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2027</g:identity>
@@ -537,12 +381,6 @@
       <g:color>Black</g:color>
       <g:stock_quantity>151</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>76.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/37/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/37/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2028</g:identity>
@@ -557,12 +395,6 @@
       <g:color>Red</g:color>
       <g:stock_quantity>164</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>77.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/38/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/38/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2029</g:identity>
@@ -577,12 +409,6 @@
       <g:color>Green</g:color>
       <g:stock_quantity>177</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>78.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/39/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/39/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2030</g:identity>
@@ -597,12 +423,6 @@
       <g:color>White</g:color>
       <g:stock_quantity>190</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>79.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/40/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/40/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2031</g:identity>
@@ -617,12 +437,6 @@
       <g:color>Blue</g:color>
       <g:stock_quantity>3</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>80.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/41/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/41/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2032</g:identity>
@@ -637,12 +451,6 @@
       <g:color>Black</g:color>
       <g:stock_quantity>16</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>81.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/42/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/42/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2033</g:identity>
@@ -657,12 +465,6 @@
       <g:color>Red</g:color>
       <g:stock_quantity>29</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>82.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/43/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/43/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2034</g:identity>
@@ -677,12 +479,6 @@
       <g:color>Green</g:color>
       <g:stock_quantity>42</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>83.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/44/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/44/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2035</g:identity>
@@ -697,12 +493,6 @@
       <g:color>White</g:color>
       <g:stock_quantity>55</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>84.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/45/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/45/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2036</g:identity>
@@ -717,12 +507,6 @@
       <g:color>Blue</g:color>
       <g:stock_quantity>68</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>85.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/46/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/46/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2037</g:identity>
@@ -737,12 +521,6 @@
       <g:color>Black</g:color>
       <g:stock_quantity>81</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>86.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/47/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/47/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2038</g:identity>
@@ -757,12 +535,6 @@
       <g:color>Red</g:color>
       <g:stock_quantity>94</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>87.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/48/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/48/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2039</g:identity>
@@ -777,12 +549,6 @@
       <g:color>Green</g:color>
       <g:stock_quantity>107</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>88.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/49/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/49/600/600?alt=2</g:additional_image_link>
     </item>
     <item>
       <g:identity>SKU-2040</g:identity>
@@ -797,12 +563,6 @@
       <g:color>White</g:color>
       <g:stock_quantity>120</g:stock_quantity>
       <g:feed_version>v0</g:feed_version>
-      <g:shipping>
-        <g:country>IN</g:country>
-        <g:price>89.00 INR</g:price>
-      </g:shipping>
-      <g:additional_image_link>https://picsum.photos/id/50/600/600?alt=1</g:additional_image_link>
-      <g:additional_image_link>https://picsum.photos/id/50/600/600?alt=2</g:additional_image_link>
     </item>
   </channel>
 </rss>
