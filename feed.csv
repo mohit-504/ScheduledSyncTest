@@ -1,46 +1,41 @@
 identity,name,image_url,link,price,sale_price,availability,brand,category,color,stock_quantity,feed_version
-SKU-2001,Denim Jeans #1 v1,https://picsum.photos/id/11/600/600,https://example.com/products/sku-2001,425.00,340.00,in stock,Contoso,Footwear,Blue,13,v2
-SKU-2002,Running Shoes #2 v1,https://picsum.photos/id/12/600/600,https://example.com/products/sku-2002,450.00,360.00,in stock,Fabrikam,Accessories,Black,26,v2
-SKU-2003,Wool Sweater #3 v1,https://picsum.photos/id/13/600/600,https://example.com/products/sku-2003,475.00,380.00,in stock,Tailspin,Apparel,Red,39,v2
-SKU-2004,Linen Shirt #4 v1,https://picsum.photos/id/14/600/600,https://example.com/products/sku-2004,500.00,400.00,in stock,Northwind,Footwear,Green,52,v2
-SKU-2005,Canvas Sneakers #5 v1,https://picsum.photos/id/15/600/600,https://example.com/products/sku-2005,525.00,420.00,in stock,Contoso,Accessories,White,65,v2
-SKU-2006,Leather Belt #6 v1,https://picsum.photos/id/16/600/600,https://example.com/products/sku-2006,550.00,440.00,in stock,Fabrikam,Apparel,Blue,78,v2
-SKU-2007,Silk Scarf #7 v1,https://picsum.photos/id/17/600/600,https://example.com/products/sku-2007,575.00,460.00,out of stock,Tailspin,Footwear,Black,91,v2
-SKU-2008,Rain Jacket #8 v1,https://picsum.photos/id/18/600/600,https://example.com/products/sku-2008,600.00,480.00,in stock,Northwind,Accessories,Red,104,v2
-SKU-2009,Cargo Shorts #9 v1,https://picsum.photos/id/19/600/600,https://example.com/products/sku-2009,625.00,500.00,in stock,Contoso,Apparel,Green,117,v2
-SKU-2010,Cotton T-Shirt #10 v1,https://picsum.photos/id/20/600/600,https://example.com/products/sku-2010,650.00,520.00,in stock,Fabrikam,Footwear,White,130,v2
-SKU-2011,Denim Jeans #11,https://picsum.photos/id/21/600/600,https://example.com/products/sku-2011,575.00,460.00,in stock,Tailspin,Accessories,Blue,143,v2
-SKU-2012,Running Shoes #12,https://picsum.photos/id/22/600/600,https://example.com/products/sku-2012,600.00,480.00,in stock,Northwind,Apparel,Black,156,v2
-SKU-2013,Wool Sweater #13,https://picsum.photos/id/23/600/600,https://example.com/products/sku-2013,625.00,500.00,in stock,Contoso,Footwear,Red,169,v2
-SKU-2014,Linen Shirt #14,https://picsum.photos/id/24/600/600,https://example.com/products/sku-2014,650.00,520.00,out of stock,Fabrikam,Accessories,Green,182,v2
-SKU-2015,Canvas Sneakers #15,https://picsum.photos/id/25/600/600,https://example.com/products/sku-2015,675.00,540.00,in stock,Tailspin,Apparel,White,195,v2
-SKU-2016,Leather Belt #16,https://picsum.photos/id/26/600/600,https://example.com/products/sku-2016,700.00,560.00,in stock,Northwind,Footwear,Blue,8,v2
-SKU-2017,Silk Scarf #17,https://picsum.photos/id/27/600/600,https://example.com/products/sku-2017,725.00,580.00,in stock,Contoso,Accessories,Black,21,v2
-SKU-2018,Rain Jacket #18,https://picsum.photos/id/28/600/600,https://example.com/products/sku-2018,750.00,600.00,in stock,Fabrikam,Apparel,Red,34,v2
-SKU-2019,Cargo Shorts #19,https://picsum.photos/id/29/600/600,https://example.com/products/sku-2019,775.00,620.00,in stock,Tailspin,Footwear,Green,47,v2
-SKU-2020,Cotton T-Shirt #20,https://picsum.photos/id/30/600/600,https://example.com/products/sku-2020,800.00,640.00,in stock,Northwind,Accessories,White,60,v2
-SKU-2021,Denim Jeans #21,https://picsum.photos/id/31/600/600,https://example.com/products/sku-2021,825.00,660.00,out of stock,Contoso,Apparel,Blue,73,v2
-SKU-2022,Running Shoes #22,https://picsum.photos/id/32/600/600,https://example.com/products/sku-2022,850.00,680.00,in stock,Fabrikam,Footwear,Black,86,v2
-SKU-2023,Wool Sweater #23,https://picsum.photos/id/33/600/600,https://example.com/products/sku-2023,875.00,700.00,in stock,Tailspin,Accessories,Red,99,v2
-SKU-2024,Linen Shirt #24,https://picsum.photos/id/34/600/600,https://example.com/products/sku-2024,900.00,720.00,in stock,Northwind,Apparel,Green,112,v2
-SKU-2025,Canvas Sneakers #25,https://picsum.photos/id/35/600/600,https://example.com/products/sku-2025,925.00,740.00,in stock,Contoso,Footwear,White,125,v2
-SKU-2026,Leather Belt #26,https://picsum.photos/id/36/600/600,https://example.com/products/sku-2026,950.00,760.00,in stock,Fabrikam,Accessories,Blue,138,v2
-SKU-2027,Silk Scarf #27,https://picsum.photos/id/37/600/600,https://example.com/products/sku-2027,975.00,780.00,in stock,Tailspin,Apparel,Black,151,v2
-SKU-2028,Rain Jacket #28,https://picsum.photos/id/38/600/600,https://example.com/products/sku-2028,1000.00,800.00,out of stock,Northwind,Footwear,Red,164,v2
-SKU-2029,Cargo Shorts #29,https://picsum.photos/id/39/600/600,https://example.com/products/sku-2029,1025.00,820.00,in stock,Contoso,Accessories,Green,177,v2
-SKU-2030,Cotton T-Shirt #30,https://picsum.photos/id/40/600/600,https://example.com/products/sku-2030,1050.00,840.00,in stock,Fabrikam,Apparel,White,190,v2
-SKU-2031,Denim Jeans #31,https://picsum.photos/id/41/600/600,https://example.com/products/sku-2031,1075.00,860.00,in stock,Tailspin,Footwear,Blue,3,v2
-SKU-2032,Running Shoes #32,https://picsum.photos/id/42/600/600,https://example.com/products/sku-2032,1100.00,880.00,in stock,Northwind,Accessories,Black,16,v2
-SKU-2033,Wool Sweater #33,https://picsum.photos/id/43/600/600,https://example.com/products/sku-2033,1125.00,900.00,in stock,Contoso,Apparel,Red,29,v2
-SKU-2034,Linen Shirt #34,https://picsum.photos/id/44/600/600,https://example.com/products/sku-2034,1150.00,920.00,in stock,Fabrikam,Footwear,Green,42,v2
-SKU-2035,Canvas Sneakers #35,https://picsum.photos/id/45/600/600,https://example.com/products/sku-2035,1175.00,940.00,out of stock,Tailspin,Accessories,White,55,v2
-SKU-2036,Leather Belt #36,https://picsum.photos/id/46/600/600,https://example.com/products/sku-2036,1200.00,960.00,in stock,Northwind,Apparel,Blue,68,v2
-SKU-2037,Silk Scarf #37,https://picsum.photos/id/47/600/600,https://example.com/products/sku-2037,1225.00,980.00,in stock,Contoso,Footwear,Black,81,v2
-SKU-2038,Rain Jacket #38,https://picsum.photos/id/48/600/600,https://example.com/products/sku-2038,1250.00,1000.00,in stock,Fabrikam,Accessories,Red,94,v2
-SKU-2039,Cargo Shorts #39,https://picsum.photos/id/49/600/600,https://example.com/products/sku-2039,1275.00,1020.00,in stock,Tailspin,Apparel,Green,107,v2
-SKU-2040,Cotton T-Shirt #40,https://picsum.photos/id/50/600/600,https://example.com/products/sku-2040,1300.00,1040.00,in stock,Northwind,Footwear,White,120,v2
-SKU-2041,Denim Jeans #41,https://picsum.photos/id/51/600/600,https://example.com/products/sku-2041,1325.00,1060.00,in stock,Contoso,Accessories,Blue,133,v2
-SKU-2042,Running Shoes #42,https://picsum.photos/id/52/600/600,https://example.com/products/sku-2042,1350.00,1080.00,out of stock,Fabrikam,Apparel,Black,146,v2
-SKU-2043,Wool Sweater #43,https://picsum.photos/id/53/600/600,https://example.com/products/sku-2043,1375.00,1100.00,in stock,Tailspin,Footwear,Red,159,v2
-SKU-2044,Linen Shirt #44,https://picsum.photos/id/54/600/600,https://example.com/products/sku-2044,1400.00,1120.00,in stock,Northwind,Accessories,Green,172,v2
-SKU-2045,Canvas Sneakers #45,https://picsum.photos/id/55/600/600,https://example.com/products/sku-2045,1425.00,1140.00,in stock,Contoso,Apparel,White,185,v2
+SKU-2001,Denim Jeans #1 v1,https://picsum.photos/id/11/600/600,https://example.com/products/sku-2001,425.00,340.00,in stock,Contoso,Footwear,Blue,13,v3
+SKU-2002,Running Shoes #2 v1,https://picsum.photos/id/12/600/600,https://example.com/products/sku-2002,450.00,360.00,in stock,Fabrikam,Accessories,Black,26,v3
+SKU-2003,Wool Sweater #3 v1,https://picsum.photos/id/13/600/600,https://example.com/products/sku-2003,475.00,380.00,in stock,Tailspin,Apparel,Red,39,v3
+SKU-2004,Linen Shirt #4 v1,https://picsum.photos/id/14/600/600,https://example.com/products/sku-2004,500.00,400.00,in stock,Northwind,Footwear,Green,52,v3
+SKU-2005,Canvas Sneakers #5 v1,https://picsum.photos/id/15/600/600,https://example.com/products/sku-2005,525.00,420.00,in stock,Contoso,Accessories,White,65,v3
+SKU-2006,Leather Belt #6 v1,https://picsum.photos/id/16/600/600,https://example.com/products/sku-2006,550.00,440.00,in stock,Fabrikam,Apparel,Blue,78,v3
+SKU-2007,Silk Scarf #7 v1,https://picsum.photos/id/17/600/600,https://example.com/products/sku-2007,575.00,460.00,out of stock,Tailspin,Footwear,Black,91,v3
+SKU-2008,Rain Jacket #8 v1,https://picsum.photos/id/18/600/600,https://example.com/products/sku-2008,600.00,480.00,in stock,Northwind,Accessories,Red,104,v3
+SKU-2009,Cargo Shorts #9 v1,https://picsum.photos/id/19/600/600,https://example.com/products/sku-2009,625.00,500.00,in stock,Contoso,Apparel,Green,117,v3
+SKU-2010,Cotton T-Shirt #10 v1,https://picsum.photos/id/20/600/600,https://example.com/products/sku-2010,650.00,520.00,in stock,Fabrikam,Footwear,White,130,v3
+SKU-2011,Denim Jeans #11,https://picsum.photos/id/21/600/600,https://example.com/products/sku-2011,575.00,460.00,in stock,Tailspin,Accessories,Blue,143,v3
+SKU-2012,Running Shoes #12,https://picsum.photos/id/22/600/600,https://example.com/products/sku-2012,600.00,480.00,in stock,Northwind,Apparel,Black,156,v3
+SKU-2013,Wool Sweater #13,https://picsum.photos/id/23/600/600,https://example.com/products/sku-2013,625.00,500.00,in stock,Contoso,Footwear,Red,169,v3
+SKU-2014,Linen Shirt #14,https://picsum.photos/id/24/600/600,https://example.com/products/sku-2014,650.00,520.00,out of stock,Fabrikam,Accessories,Green,182,v3
+SKU-2015,Canvas Sneakers #15,https://picsum.photos/id/25/600/600,https://example.com/products/sku-2015,675.00,540.00,in stock,Tailspin,Apparel,White,195,v3
+SKU-2016,Leather Belt #16,https://picsum.photos/id/26/600/600,https://example.com/products/sku-2016,700.00,560.00,in stock,Northwind,Footwear,Blue,8,v3
+SKU-2017,Silk Scarf #17,https://picsum.photos/id/27/600/600,https://example.com/products/sku-2017,725.00,580.00,in stock,Contoso,Accessories,Black,21,v3
+SKU-2018,Rain Jacket #18,https://picsum.photos/id/28/600/600,https://example.com/products/sku-2018,750.00,600.00,in stock,Fabrikam,Apparel,Red,34,v3
+SKU-2019,Cargo Shorts #19,https://picsum.photos/id/29/600/600,https://example.com/products/sku-2019,775.00,620.00,in stock,Tailspin,Footwear,Green,47,v3
+SKU-2020,Cotton T-Shirt #20,https://picsum.photos/id/30/600/600,https://example.com/products/sku-2020,800.00,640.00,in stock,Northwind,Accessories,White,60,v3
+SKU-2021,Denim Jeans #21,https://picsum.photos/id/31/600/600,https://example.com/products/sku-2021,825.00,660.00,out of stock,Contoso,Apparel,Blue,73,v3
+SKU-2022,Running Shoes #22,https://picsum.photos/id/32/600/600,https://example.com/products/sku-2022,850.00,680.00,in stock,Fabrikam,Footwear,Black,86,v3
+SKU-2023,Wool Sweater #23,https://picsum.photos/id/33/600/600,https://example.com/products/sku-2023,875.00,700.00,in stock,Tailspin,Accessories,Red,99,v3
+SKU-2024,Linen Shirt #24,https://picsum.photos/id/34/600/600,https://example.com/products/sku-2024,900.00,720.00,in stock,Northwind,Apparel,Green,112,v3
+SKU-2025,Canvas Sneakers #25,https://picsum.photos/id/35/600/600,https://example.com/products/sku-2025,925.00,740.00,in stock,Contoso,Footwear,White,125,v3
+SKU-2026,Leather Belt #26,https://picsum.photos/id/36/600/600,https://example.com/products/sku-2026,950.00,760.00,in stock,Fabrikam,Accessories,Blue,138,v3
+SKU-2027,Silk Scarf #27,https://picsum.photos/id/37/600/600,https://example.com/products/sku-2027,975.00,780.00,in stock,Tailspin,Apparel,Black,151,v3
+SKU-2028,Rain Jacket #28,https://picsum.photos/id/38/600/600,https://example.com/products/sku-2028,1000.00,800.00,out of stock,Northwind,Footwear,Red,164,v3
+SKU-2029,Cargo Shorts #29,https://picsum.photos/id/39/600/600,https://example.com/products/sku-2029,1025.00,820.00,in stock,Contoso,Accessories,Green,177,v3
+SKU-2030,Cotton T-Shirt #30,https://picsum.photos/id/40/600/600,https://example.com/products/sku-2030,1050.00,840.00,in stock,Fabrikam,Apparel,White,190,v3
+SKU-2031,Denim Jeans #31,https://picsum.photos/id/41/600/600,https://example.com/products/sku-2031,1075.00,860.00,in stock,Tailspin,Footwear,Blue,3,v3
+SKU-2032,Running Shoes #32,https://picsum.photos/id/42/600/600,https://example.com/products/sku-2032,1100.00,880.00,in stock,Northwind,Accessories,Black,16,v3
+SKU-2033,Wool Sweater #33,https://picsum.photos/id/43/600/600,https://example.com/products/sku-2033,1125.00,900.00,in stock,Contoso,Apparel,Red,29,v3
+SKU-2034,Linen Shirt #34,https://picsum.photos/id/44/600/600,https://example.com/products/sku-2034,1150.00,920.00,in stock,Fabrikam,Footwear,Green,42,v3
+SKU-2035,Canvas Sneakers #35,https://picsum.photos/id/45/600/600,https://example.com/products/sku-2035,1175.00,940.00,out of stock,Tailspin,Accessories,White,55,v3
+SKU-2041,Denim Jeans #41,https://picsum.photos/id/51/600/600,https://example.com/products/sku-2041,1325.00,1060.00,in stock,Contoso,Accessories,Blue,133,v3
+SKU-2042,Running Shoes #42,https://picsum.photos/id/52/600/600,https://example.com/products/sku-2042,1350.00,1080.00,out of stock,Fabrikam,Apparel,Black,146,v3
+SKU-2043,Wool Sweater #43,https://picsum.photos/id/53/600/600,https://example.com/products/sku-2043,1375.00,1100.00,in stock,Tailspin,Footwear,Red,159,v3
+SKU-2044,Linen Shirt #44,https://picsum.photos/id/54/600/600,https://example.com/products/sku-2044,1400.00,1120.00,in stock,Northwind,Accessories,Green,172,v3
+SKU-2045,Canvas Sneakers #45,https://picsum.photos/id/55/600/600,https://example.com/products/sku-2045,1425.00,1140.00,in stock,Contoso,Apparel,White,185,v3
