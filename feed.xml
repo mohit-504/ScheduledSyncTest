@@ -1,148 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
   <channel>
-    <title>WF-4219 scheduled sync test feed v0</title>
+    <title>WF-4219 scheduled sync test feed v1</title>
     <link>https://example.com</link>
     <description>Flat Google Merchant items, no nested or repeated elements</description>
     <item>
       <g:identity>SKU-2001</g:identity>
-      <g:name>Denim Jeans #1</g:name>
+      <g:name>Denim Jeans #1 v1</g:name>
       <g:image_url>https://picsum.photos/id/11/600/600</g:image_url>
       <g:link>https://example.com/products/sku-2001</g:link>
-      <g:price>325.00</g:price>
-      <g:sale_price>260.00</g:sale_price>
+      <g:price>425.00</g:price>
+      <g:sale_price>340.00</g:sale_price>
       <g:availability>in stock</g:availability>
       <g:brand>Contoso</g:brand>
       <g:category>Footwear</g:category>
       <g:color>Blue</g:color>
       <g:stock_quantity>13</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2002</g:identity>
-      <g:name>Running Shoes #2</g:name>
+      <g:name>Running Shoes #2 v1</g:name>
       <g:image_url>https://picsum.photos/id/12/600/600</g:image_url>
       <g:link>https://example.com/products/sku-2002</g:link>
-      <g:price>350.00</g:price>
-      <g:sale_price>280.00</g:sale_price>
+      <g:price>450.00</g:price>
+      <g:sale_price>360.00</g:sale_price>
       <g:availability>in stock</g:availability>
       <g:brand>Fabrikam</g:brand>
       <g:category>Accessories</g:category>
       <g:color>Black</g:color>
       <g:stock_quantity>26</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2003</g:identity>
-      <g:name>Wool Sweater #3</g:name>
+      <g:name>Wool Sweater #3 v1</g:name>
       <g:image_url>https://picsum.photos/id/13/600/600</g:image_url>
       <g:link>https://example.com/products/sku-2003</g:link>
-      <g:price>375.00</g:price>
-      <g:sale_price>300.00</g:sale_price>
+      <g:price>475.00</g:price>
+      <g:sale_price>380.00</g:sale_price>
       <g:availability>in stock</g:availability>
       <g:brand>Tailspin</g:brand>
       <g:category>Apparel</g:category>
       <g:color>Red</g:color>
       <g:stock_quantity>39</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2004</g:identity>
-      <g:name>Linen Shirt #4</g:name>
+      <g:name>Linen Shirt #4 v1</g:name>
       <g:image_url>https://picsum.photos/id/14/600/600</g:image_url>
       <g:link>https://example.com/products/sku-2004</g:link>
-      <g:price>400.00</g:price>
-      <g:sale_price>320.00</g:sale_price>
+      <g:price>500.00</g:price>
+      <g:sale_price>400.00</g:sale_price>
       <g:availability>in stock</g:availability>
       <g:brand>Northwind</g:brand>
       <g:category>Footwear</g:category>
       <g:color>Green</g:color>
       <g:stock_quantity>52</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2005</g:identity>
-      <g:name>Canvas Sneakers #5</g:name>
+      <g:name>Canvas Sneakers #5 v1</g:name>
       <g:image_url>https://picsum.photos/id/15/600/600</g:image_url>
       <g:link>https://example.com/products/sku-2005</g:link>
-      <g:price>425.00</g:price>
-      <g:sale_price>340.00</g:sale_price>
+      <g:price>525.00</g:price>
+      <g:sale_price>420.00</g:sale_price>
       <g:availability>in stock</g:availability>
       <g:brand>Contoso</g:brand>
       <g:category>Accessories</g:category>
       <g:color>White</g:color>
       <g:stock_quantity>65</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2006</g:identity>
-      <g:name>Leather Belt #6</g:name>
+      <g:name>Leather Belt #6 v1</g:name>
       <g:image_url>https://picsum.photos/id/16/600/600</g:image_url>
       <g:link>https://example.com/products/sku-2006</g:link>
-      <g:price>450.00</g:price>
-      <g:sale_price>360.00</g:sale_price>
+      <g:price>550.00</g:price>
+      <g:sale_price>440.00</g:sale_price>
       <g:availability>in stock</g:availability>
       <g:brand>Fabrikam</g:brand>
       <g:category>Apparel</g:category>
       <g:color>Blue</g:color>
       <g:stock_quantity>78</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2007</g:identity>
-      <g:name>Silk Scarf #7</g:name>
+      <g:name>Silk Scarf #7 v1</g:name>
       <g:image_url>https://picsum.photos/id/17/600/600</g:image_url>
       <g:link>https://example.com/products/sku-2007</g:link>
-      <g:price>475.00</g:price>
-      <g:sale_price>380.00</g:sale_price>
+      <g:price>575.00</g:price>
+      <g:sale_price>460.00</g:sale_price>
       <g:availability>out of stock</g:availability>
       <g:brand>Tailspin</g:brand>
       <g:category>Footwear</g:category>
       <g:color>Black</g:color>
       <g:stock_quantity>91</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2008</g:identity>
-      <g:name>Rain Jacket #8</g:name>
+      <g:name>Rain Jacket #8 v1</g:name>
       <g:image_url>https://picsum.photos/id/18/600/600</g:image_url>
       <g:link>https://example.com/products/sku-2008</g:link>
-      <g:price>500.00</g:price>
-      <g:sale_price>400.00</g:sale_price>
+      <g:price>600.00</g:price>
+      <g:sale_price>480.00</g:sale_price>
       <g:availability>in stock</g:availability>
       <g:brand>Northwind</g:brand>
       <g:category>Accessories</g:category>
       <g:color>Red</g:color>
       <g:stock_quantity>104</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2009</g:identity>
-      <g:name>Cargo Shorts #9</g:name>
+      <g:name>Cargo Shorts #9 v1</g:name>
       <g:image_url>https://picsum.photos/id/19/600/600</g:image_url>
       <g:link>https://example.com/products/sku-2009</g:link>
-      <g:price>525.00</g:price>
-      <g:sale_price>420.00</g:sale_price>
+      <g:price>625.00</g:price>
+      <g:sale_price>500.00</g:sale_price>
       <g:availability>in stock</g:availability>
       <g:brand>Contoso</g:brand>
       <g:category>Apparel</g:category>
       <g:color>Green</g:color>
       <g:stock_quantity>117</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2010</g:identity>
-      <g:name>Cotton T-Shirt #10</g:name>
+      <g:name>Cotton T-Shirt #10 v1</g:name>
       <g:image_url>https://picsum.photos/id/20/600/600</g:image_url>
       <g:link>https://example.com/products/sku-2010</g:link>
-      <g:price>550.00</g:price>
-      <g:sale_price>440.00</g:sale_price>
+      <g:price>650.00</g:price>
+      <g:sale_price>520.00</g:sale_price>
       <g:availability>in stock</g:availability>
       <g:brand>Fabrikam</g:brand>
       <g:category>Footwear</g:category>
       <g:color>White</g:color>
       <g:stock_quantity>130</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2011</g:identity>
@@ -156,7 +156,7 @@
       <g:category>Accessories</g:category>
       <g:color>Blue</g:color>
       <g:stock_quantity>143</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2012</g:identity>
@@ -170,7 +170,7 @@
       <g:category>Apparel</g:category>
       <g:color>Black</g:color>
       <g:stock_quantity>156</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2013</g:identity>
@@ -184,7 +184,7 @@
       <g:category>Footwear</g:category>
       <g:color>Red</g:color>
       <g:stock_quantity>169</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2014</g:identity>
@@ -198,7 +198,7 @@
       <g:category>Accessories</g:category>
       <g:color>Green</g:color>
       <g:stock_quantity>182</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2015</g:identity>
@@ -212,7 +212,7 @@
       <g:category>Apparel</g:category>
       <g:color>White</g:color>
       <g:stock_quantity>195</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2016</g:identity>
@@ -226,7 +226,7 @@
       <g:category>Footwear</g:category>
       <g:color>Blue</g:color>
       <g:stock_quantity>8</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2017</g:identity>
@@ -240,7 +240,7 @@
       <g:category>Accessories</g:category>
       <g:color>Black</g:color>
       <g:stock_quantity>21</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2018</g:identity>
@@ -254,7 +254,7 @@
       <g:category>Apparel</g:category>
       <g:color>Red</g:color>
       <g:stock_quantity>34</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2019</g:identity>
@@ -268,7 +268,7 @@
       <g:category>Footwear</g:category>
       <g:color>Green</g:color>
       <g:stock_quantity>47</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2020</g:identity>
@@ -282,7 +282,7 @@
       <g:category>Accessories</g:category>
       <g:color>White</g:color>
       <g:stock_quantity>60</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2021</g:identity>
@@ -296,7 +296,7 @@
       <g:category>Apparel</g:category>
       <g:color>Blue</g:color>
       <g:stock_quantity>73</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2022</g:identity>
@@ -310,7 +310,7 @@
       <g:category>Footwear</g:category>
       <g:color>Black</g:color>
       <g:stock_quantity>86</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2023</g:identity>
@@ -324,7 +324,7 @@
       <g:category>Accessories</g:category>
       <g:color>Red</g:color>
       <g:stock_quantity>99</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2024</g:identity>
@@ -338,7 +338,7 @@
       <g:category>Apparel</g:category>
       <g:color>Green</g:color>
       <g:stock_quantity>112</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2025</g:identity>
@@ -352,7 +352,7 @@
       <g:category>Footwear</g:category>
       <g:color>White</g:color>
       <g:stock_quantity>125</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2026</g:identity>
@@ -366,7 +366,7 @@
       <g:category>Accessories</g:category>
       <g:color>Blue</g:color>
       <g:stock_quantity>138</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2027</g:identity>
@@ -380,7 +380,7 @@
       <g:category>Apparel</g:category>
       <g:color>Black</g:color>
       <g:stock_quantity>151</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2028</g:identity>
@@ -394,7 +394,7 @@
       <g:category>Footwear</g:category>
       <g:color>Red</g:color>
       <g:stock_quantity>164</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2029</g:identity>
@@ -408,7 +408,7 @@
       <g:category>Accessories</g:category>
       <g:color>Green</g:color>
       <g:stock_quantity>177</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2030</g:identity>
@@ -422,7 +422,7 @@
       <g:category>Apparel</g:category>
       <g:color>White</g:color>
       <g:stock_quantity>190</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2031</g:identity>
@@ -436,7 +436,7 @@
       <g:category>Footwear</g:category>
       <g:color>Blue</g:color>
       <g:stock_quantity>3</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2032</g:identity>
@@ -450,7 +450,7 @@
       <g:category>Accessories</g:category>
       <g:color>Black</g:color>
       <g:stock_quantity>16</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2033</g:identity>
@@ -464,7 +464,7 @@
       <g:category>Apparel</g:category>
       <g:color>Red</g:color>
       <g:stock_quantity>29</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2034</g:identity>
@@ -478,7 +478,7 @@
       <g:category>Footwear</g:category>
       <g:color>Green</g:color>
       <g:stock_quantity>42</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2035</g:identity>
@@ -492,7 +492,7 @@
       <g:category>Accessories</g:category>
       <g:color>White</g:color>
       <g:stock_quantity>55</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2036</g:identity>
@@ -506,7 +506,7 @@
       <g:category>Apparel</g:category>
       <g:color>Blue</g:color>
       <g:stock_quantity>68</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2037</g:identity>
@@ -520,7 +520,7 @@
       <g:category>Footwear</g:category>
       <g:color>Black</g:color>
       <g:stock_quantity>81</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2038</g:identity>
@@ -534,7 +534,7 @@
       <g:category>Accessories</g:category>
       <g:color>Red</g:color>
       <g:stock_quantity>94</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2039</g:identity>
@@ -548,7 +548,7 @@
       <g:category>Apparel</g:category>
       <g:color>Green</g:color>
       <g:stock_quantity>107</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
     <item>
       <g:identity>SKU-2040</g:identity>
@@ -562,7 +562,7 @@
       <g:category>Footwear</g:category>
       <g:color>White</g:color>
       <g:stock_quantity>120</g:stock_quantity>
-      <g:feed_version>v0</g:feed_version>
+      <g:feed_version>v1</g:feed_version>
     </item>
   </channel>
 </rss>
