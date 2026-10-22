@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
   <channel>
-    <title>WF-4219 scheduled sync test feed v9</title>
+    <title>WF-4219 scheduled sync test feed v10</title>
     <link>https://example.com</link>
     <description>Flat Google Merchant items, no nested or repeated elements</description>
     <item>
@@ -9,19 +9,19 @@
       <g:name>Denim Jeans #1 v1</g:name>
       <g:image_url>https://picsum.photos/id/11/600/600</g:image_url>
       <g:link>https://example.com/products/sku-2001</g:link>
-      <g:price>425.00</g:price>
+      <g:price>499.00</g:price>
       <g:sale_price>340.00</g:sale_price>
       <g:availability>in stock</g:availability>
       <g:brand>Contoso</g:brand>
       <g:category>Footwear</g:category>
       <g:color>Blue</g:color>
       <g:stock_quantity>13</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
       <g:identity>SKU-2002</g:identity>
-      <g:name>Running Shoes #2 v1</g:name>
+      <g:name>Running Shoes #2 v10</g:name>
       <g:image_url>https://picsum.photos/id/12/600/600</g:image_url>
       <g:link>https://example.com/products/sku-2002</g:link>
       <g:price>450.00</g:price>
@@ -31,7 +31,7 @@
       <g:category>Accessories</g:category>
       <g:color>Black</g:color>
       <g:stock_quantity>26</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -46,7 +46,7 @@
       <g:category>Apparel</g:category>
       <g:color>Red</g:color>
       <g:stock_quantity>39</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -61,7 +61,7 @@
       <g:category>Footwear</g:category>
       <g:color>Green</g:color>
       <g:stock_quantity>52</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -76,7 +76,7 @@
       <g:category>Accessories</g:category>
       <g:color>White</g:color>
       <g:stock_quantity>65</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -91,7 +91,7 @@
       <g:category>Apparel</g:category>
       <g:color>Blue</g:color>
       <g:stock_quantity>78</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -106,7 +106,7 @@
       <g:category>Footwear</g:category>
       <g:color>Black</g:color>
       <g:stock_quantity>91</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -121,7 +121,7 @@
       <g:category>Accessories</g:category>
       <g:color>Red</g:color>
       <g:stock_quantity>104</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -136,7 +136,7 @@
       <g:category>Apparel</g:category>
       <g:color>Green</g:color>
       <g:stock_quantity>117</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -151,7 +151,7 @@
       <g:category>Footwear</g:category>
       <g:color>White</g:color>
       <g:stock_quantity>130</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -166,7 +166,7 @@
       <g:category>Accessories</g:category>
       <g:color>Blue</g:color>
       <g:stock_quantity>143</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -181,7 +181,7 @@
       <g:category>Apparel</g:category>
       <g:color>Black</g:color>
       <g:stock_quantity>156</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -196,7 +196,7 @@
       <g:category>Footwear</g:category>
       <g:color>Red</g:color>
       <g:stock_quantity>169</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -211,7 +211,7 @@
       <g:category>Accessories</g:category>
       <g:color>Green</g:color>
       <g:stock_quantity>182</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -226,7 +226,7 @@
       <g:category>Apparel</g:category>
       <g:color>White</g:color>
       <g:stock_quantity>195</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -241,7 +241,7 @@
       <g:category>Footwear</g:category>
       <g:color>Blue</g:color>
       <g:stock_quantity>8</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -256,7 +256,7 @@
       <g:category>Accessories</g:category>
       <g:color>Black</g:color>
       <g:stock_quantity>21</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -271,7 +271,7 @@
       <g:category>Apparel</g:category>
       <g:color>Red</g:color>
       <g:stock_quantity>34</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -286,7 +286,7 @@
       <g:category>Footwear</g:category>
       <g:color>Green</g:color>
       <g:stock_quantity>47</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -301,7 +301,7 @@
       <g:category>Accessories</g:category>
       <g:color>White</g:color>
       <g:stock_quantity>60</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -316,7 +316,7 @@
       <g:category>Apparel</g:category>
       <g:color>Blue</g:color>
       <g:stock_quantity>73</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -331,7 +331,7 @@
       <g:category>Footwear</g:category>
       <g:color>Black</g:color>
       <g:stock_quantity>86</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -346,7 +346,7 @@
       <g:category>Accessories</g:category>
       <g:color>Red</g:color>
       <g:stock_quantity>99</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -361,7 +361,7 @@
       <g:category>Apparel</g:category>
       <g:color>Green</g:color>
       <g:stock_quantity>112</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -376,7 +376,7 @@
       <g:category>Footwear</g:category>
       <g:color>White</g:color>
       <g:stock_quantity>125</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -391,7 +391,7 @@
       <g:category>Accessories</g:category>
       <g:color>Blue</g:color>
       <g:stock_quantity>138</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -406,7 +406,7 @@
       <g:category>Apparel</g:category>
       <g:color>Black</g:color>
       <g:stock_quantity>151</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -421,7 +421,7 @@
       <g:category>Footwear</g:category>
       <g:color>Red</g:color>
       <g:stock_quantity>164</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -436,7 +436,7 @@
       <g:category>Accessories</g:category>
       <g:color>Green</g:color>
       <g:stock_quantity>177</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -451,7 +451,7 @@
       <g:category>Apparel</g:category>
       <g:color>White</g:color>
       <g:stock_quantity>190</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -466,7 +466,7 @@
       <g:category>Footwear</g:category>
       <g:color>Blue</g:color>
       <g:stock_quantity>3</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -481,7 +481,7 @@
       <g:category>Accessories</g:category>
       <g:color>Black</g:color>
       <g:stock_quantity>16</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -496,7 +496,7 @@
       <g:category>Apparel</g:category>
       <g:color>Red</g:color>
       <g:stock_quantity>29</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -511,7 +511,7 @@
       <g:category>Footwear</g:category>
       <g:color>Green</g:color>
       <g:stock_quantity>42</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -526,7 +526,7 @@
       <g:category>Accessories</g:category>
       <g:color>White</g:color>
       <g:stock_quantity>55</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -541,7 +541,7 @@
       <g:category>Accessories</g:category>
       <g:color>Blue</g:color>
       <g:stock_quantity>133</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -556,7 +556,7 @@
       <g:category>Apparel</g:category>
       <g:color>Black</g:color>
       <g:stock_quantity>146</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
@@ -571,37 +571,22 @@
       <g:category>Footwear</g:category>
       <g:color>Red</g:color>
       <g:stock_quantity>159</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
     <item>
-      <g:identity>SKU-2044</g:identity>
-      <g:name>Linen Shirt #44</g:name>
-      <g:image_url>https://picsum.photos/id/54/600/600</g:image_url>
-      <g:link>https://example.com/products/sku-2044</g:link>
-      <g:price>1400.00</g:price>
-      <g:sale_price>1120.00</g:sale_price>
-      <g:availability>in stock</g:availability>
-      <g:brand>Northwind</g:brand>
-      <g:category>Accessories</g:category>
-      <g:color>Green</g:color>
-      <g:stock_quantity>172</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
-      <g:material>cotton</g:material>
-    </item>
-    <item>
-      <g:identity>SKU-2045</g:identity>
-      <g:name>Canvas Sneakers #45</g:name>
-      <g:image_url>https://picsum.photos/id/55/600/600</g:image_url>
-      <g:link>https://example.com/products/sku-2045</g:link>
-      <g:price>1425.00</g:price>
-      <g:sale_price>1140.00</g:sale_price>
+      <g:identity>SKU-2099</g:identity>
+      <g:name>New Arrival Jacket #99 v10</g:name>
+      <g:image_url>https://picsum.photos/id/11/600/600</g:image_url>
+      <g:link>https://example.com/products/sku-2099</g:link>
+      <g:price>999.00</g:price>
+      <g:sale_price>340.00</g:sale_price>
       <g:availability>in stock</g:availability>
       <g:brand>Contoso</g:brand>
-      <g:category>Apparel</g:category>
-      <g:color>White</g:color>
-      <g:stock_quantity>185</g:stock_quantity>
-      <g:feed_version>v9</g:feed_version>
+      <g:category>Footwear</g:category>
+      <g:color>Blue</g:color>
+      <g:stock_quantity>13</g:stock_quantity>
+      <g:feed_version>v10</g:feed_version>
       <g:material>cotton</g:material>
     </item>
   </channel>
